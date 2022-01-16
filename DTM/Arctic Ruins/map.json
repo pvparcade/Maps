@@ -111,25 +111,11 @@
 				{"material": "leather leggings", "slot": "leggings", "unbreakable": true},
 				{"material": "iron boots", "slot": "boots", "unbreakable": true}
 			]
-		},
-		{
-			"name": "Blue",
-			"teams": ["blue"],
-			"items": [
-				{"material": "blue stained glass", "slot": 4, "amount": 64}
-			]
-		},
-		{
-			"name": "Red",
-			"teams": ["red"],
-			"items": [
-				{"material": "red stained glass", "slot": 4, "amount": 64, "durability": 14}
-			]
 		}
 	],
 	"itemremove": [
 		"stone sword", "bow", "iron pickaxe", "stone axe", "spruce planks", "glass", "golden apple", "golden carrot", "arrow", "iron shovel",
-		"chainmail chestplate", "iron boots", "gold block", "coal block", "blue stained glass", "red stained glass",
+		"chainmail chestplate", "iron boots", "gold block", "coal block",
 		{
 		    "type": "leather helmet",
 		    "drop": true
